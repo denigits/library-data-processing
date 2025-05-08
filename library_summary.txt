@@ -1,0 +1,13 @@
+Library Summary Report
+=======================
+Available Books: 8
+Borrowed Books: 8
+
+Oldest Book: Pride and Prejudice (1813) by J Austen
+Newest Book: The Martian (2011) by A Weir
+
+Overdue Books:
+- The Da Vinci Code by D Brown (Due: 20-04-2025)
+- Harry Potter and the Sorcerer's Stone by J K Rowling (Due: 01-03-2025)
+- The Hobbit by J R R Tolkien (Due: 15-01-2025)
+- Percy Jackson & The Olympians: The Lightning Thief by R Riordan (Due: 10-02-2025)
